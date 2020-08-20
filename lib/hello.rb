@@ -8,8 +8,8 @@ def hello_t(array)
   end
 
   array
-enclosed
+else
   puts "Hey! No block was given!"
+  end
 end
-
 # call your method here!
